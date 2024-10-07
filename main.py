@@ -1,8 +1,3 @@
-#
-# Creator: Sevinç Yeter
-# ICS3UI - 05
-#
-
 from tkinter import*
 from time import*
 myInterface = Tk()
