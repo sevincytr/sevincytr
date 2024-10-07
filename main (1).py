@@ -1,7 +1,3 @@
-#
-# Creator: Sevinç Yeter
-# ICS 3UI - 05
-#
 #Initializing Tkinter
 from tkinter import*
 from time import*
